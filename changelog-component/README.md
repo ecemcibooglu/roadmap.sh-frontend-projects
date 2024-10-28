@@ -7,3 +7,5 @@
 <h3>Requirements:</h3>
 
 <p>The only requirement for the project is creating a well-structured and responsive component that can be easily integrated into a website.</p>
+
+https://roadmap.sh/projects/changelog-component
