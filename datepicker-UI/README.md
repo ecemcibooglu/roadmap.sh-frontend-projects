@@ -6,3 +6,6 @@ The goal is creating a simple datepicker UI using <b>only</b> HTML and CSS. It i
 - It is a Datepicker mockup for the future to enhance with JS.
 
 https://roadmap.sh/projects/datepicker-ui
+
+
+![Datepicker](https://github.com/user-attachments/assets/35d58e9e-73db-4f75-b44f-8da5cb515c1c)
