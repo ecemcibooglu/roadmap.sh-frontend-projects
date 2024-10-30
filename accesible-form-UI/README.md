@@ -17,3 +17,6 @@
 
 For more: https://www.w3schools.com/accessibility/index.php
 
+
+
+![Accessible Form UI](https://github.com/user-attachments/assets/192e334b-f9a2-4332-86b2-69ec2477a39f)
