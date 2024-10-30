@@ -16,5 +16,3 @@
 <p><b>Interactive Elements:</b> Make sure that the button to show/hide the password is accessible via keyboard and screen readers, providing clear feedback on the current state (e.g., “Password is hidden” or “Password is visible”).</p></br>
 
 For more: https://www.w3schools.com/accessibility/index.php
-
-<img src="..\accesible-form-UI\img.png" />
