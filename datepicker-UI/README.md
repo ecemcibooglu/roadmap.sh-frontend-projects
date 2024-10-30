@@ -8,4 +8,4 @@ The goal is creating a simple datepicker UI using <b>only</b> HTML and CSS. It i
 https://roadmap.sh/projects/datepicker-ui
 
 
-![Datepicker](https://github.com/user-attachments/assets/35d58e9e-73db-4f75-b44f-8da5cb515c1c)
+![datepicker](https://github.com/user-attachments/assets/014ecff3-6f57-4418-9d0c-aee62a7affd8)
