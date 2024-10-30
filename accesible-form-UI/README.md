@@ -17,4 +17,4 @@
 
 For more: https://www.w3schools.com/accessibility/index.php
 
-<img src="..\img.png" />
+<img src="..\accesible-form-UI\img.png" />
