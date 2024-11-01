@@ -9,3 +9,5 @@
 <p>The only requirement for the project is creating a well-structured and responsive component that can be easily integrated into a website.</p>
 
 https://roadmap.sh/projects/changelog-component
+
+![Changelog](https://github.com/user-attachments/assets/9a2ae41f-3ec2-42ab-82cd-d99cf5157a39)
