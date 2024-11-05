@@ -1,0 +1,38 @@
+.tooltip-roadmap {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+  }
+  
+  .tooltip-roadmap .tooltiptext {
+    width: 120px;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -60px;
+    visibility: hidden;
+    width: 250px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border: 2px solid #FFFFFF;
+    border-radius: 6px;
+    padding: 5px 5px;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+  }
+  
+  .tooltip-roadmap:hover .tooltiptext {
+    visibility: visible;
+  }
+
+  p {
+font-size: 18px;
+  }
+
+  body {
+background-color: #000;
+color: white;
+
+  }
