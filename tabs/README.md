@@ -8,3 +8,5 @@
 <p>- When the user clicks on another tab, the content of the current tab will be hidden, and the content of the selected tab will be displayed.</p>
 
 https://roadmap.sh/projects/simple-tabs
+
+![Lorem-Ipsum](https://github.com/user-attachments/assets/b8dd01d7-af46-4e10-a252-0cedb740b117)
