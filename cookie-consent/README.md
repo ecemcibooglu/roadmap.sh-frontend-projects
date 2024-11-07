@@ -3,4 +3,4 @@
 <p>Goal of the project is creating cookie consent while learning basic DOM manipulation and event handling in JavaScript.</p>
 
 
-![Screenshot 2024-11-07 235809](https://github.com/user-attachments/assets/89b2d6db-0811-4476-8d58-4dcb7e974797)
+![Screenshot 2024-11-08 000024](https://github.com/user-attachments/assets/a7b689f4-baf2-4c95-82de-9b6b71d3ae2b)
