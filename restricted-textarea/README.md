@@ -8,3 +8,5 @@
 - There will be a maximum character limit<br>
 - The character number will be updated dynamically<br>
 - When the limit is reached, the textarea will prevent further input.
+
+  ![restricted-textarea](https://github.com/user-attachments/assets/d4a27a36-2e6b-4896-9fed-f8cca4376600)
