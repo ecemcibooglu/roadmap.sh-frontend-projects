@@ -4,7 +4,7 @@
 
 <h4>Requirements</h4>
 
-<p>A textarea that tracks and displays the number of characters typed by the user</p><br>
-<p>A maximum character limit</p><br>
-<p>The character number will be updated dynamically</p><br>
-<p>When the limit is reached, the textarea will prevent further input.</p>
+- A textarea that tracks and displays the number of characters typed by the user<br>
+- There will be a maximum character limit<br>
+- The character number will be updated dynamically<br>
+- When the limit is reached, the textarea will prevent further input.
