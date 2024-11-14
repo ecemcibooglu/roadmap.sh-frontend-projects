@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Accordion Component</title>
+    <meta name="description" content="Accordion Component for roadmap.sh frontend" />
+    <meta name="keywords" content="Frontend Project, HTML, Roadmap.sh" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="..\accordion-component\main.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Itim&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container-fluid py-5">
+    <div class="container py-5">
+        <div class="row">
+            <div class="col-md-8">
+         <h2>Frequently Asked Questions</h2>
+         <p>Here are some of the frequently asked questions</p>
+            </div>
+            <div class="col-md-8">
+      <div class="panel-group" id="accordion">
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h4 class="accordion-title">
+              <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">What is roadmap.sh?
+            </a>
+            </h4>
+          </div>
+          <div id="collapse1" class="panel-collapse collapse in">
+            <div class="panel-body">roadmap.sh contains community-curated roadmaps, study plans, paths, and resources for developers. There are role-based roadmaps, listing skills you should know for any given role, as well as skill-based roadmaps listing items to learn for any given skill.</div>
+          </div>
+        </div>
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h4 class="accordion-title">
+              <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">How are roadmaps created?</a>
+            </h4>
+          </div>
+          <div id="collapse2" class="panel-collapse collapse">
+            <div class="panel-body">The project has a strong community that powers everything on the website. It is the 7th most starred opensource project on GitHub and gets visited by hundreds of thousands of developers every month. We also have newsletter with 150,000+ developers. All the roadmaps are created and reviewed by community and several subject matter experts. Also, anyone can suggest changes to any roadmap and we have a process to review and approve them.</div>
+          </div>
+        </div>
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h4 class="accordion-title">
+              <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">What are the plans for roadmap.sh?</a>
+            </h4>
+          </div>
+          <div id="collapse3" class="panel-collapse collapse">
+            <div class="panel-body">Our long-term plan is to make roadmap.sh a go-to place for developers whenever they plan on learning something new. We started with roadmaps, guides, videos and other visual content but we plan on introducing best practices, best-practices for certain tasks, quizzes to test your knowledge and prepare yourself for the interviews, project ideas to work on while following the roadmaps, public profiles to share your progress and interact with the other learners and so on.</div>
+          </div>
+        </div>
+        <div class="panel panel-default">
+            <div class="panel-heading">
+              <h4 class="accordion-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapse4">How is roadmap.sh built?
+                </a>
+              </h4>
+            </div>
+            <div id="collapse4" class="panel-collapse collapse">
+              <div class="panel-body">The website is built with Astro and Tailwind and is deployed to GitHub pages. The project is open-core and the codebase can be found on GitHub</div>
+            </div>
+          </div>
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <h4 class="accordion-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapse5">How can I add a new roadmap?</a>
+              </h4>
+            </div>
+            <div id="collapse5" class="panel-collapse collapse">
+              <div class="panel-body">For new roadmaps, please open an issue with the textual description of the roadmap in the form of bulleted list. Here is an example contribution of a new roadmap.</div>
+            </div>
+          </div>
+      <!--    <div class="panel panel-default">
+            <div class="panel-heading">
+              <h4 class="accordion-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapse6"></a>
+              </h4>
+            </div>
+            <div id="collapse6" class="panel-collapse collapse">
+              <div class="panel-body"></div>
+            </div>
+          </div> -->
+      </div> 
+        </div>
+    </div>
+</div>
+</div>
+</div>
+
+</body>

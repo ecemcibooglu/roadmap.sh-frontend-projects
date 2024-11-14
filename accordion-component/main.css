@@ -1,0 +1,26 @@
+p {
+    font-size: 17px;
+}
+
+.panel-default>.panel-heading {
+    color: #FFFFFF;
+    background-color: #000;
+    border-color: #000;
+    border-radius: 15px;
+}
+
+.panel {
+    border: none;
+}
+
+.panel-default>.panel-heading+.panel-collapse>.panel-body {
+    border: 2px solid #000;
+    border-radius: 15px;
+    margin-top: 1%;
+    font-size: 18px;
+}
+
+.accordion-title a {
+color: #FFFFFF;
+
+}
