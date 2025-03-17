@@ -3,6 +3,7 @@
 <p>Goal of the project is creating an accordion component using HTML, CSS, and JavaScript.</p>
 
 <h4>Requirements</h4>
+
 - When a user clicks on a question, its corresponding answer or content section will expand while collapsing any previously opened section. 
 
 - One section should be opened at a time, keeping the UI clean and organized.
